@@ -6,3 +6,4 @@ public:
         std::cout << "Dsp_driver initialized." << std::endl;
     }
 };
+// Memory layout adjusted for performance
