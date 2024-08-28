@@ -9,3 +9,5 @@ module timer_counter (
     end
 endmodule
 // Updated logic section 34
+
+// TODO: Optimize this block in future refactor
