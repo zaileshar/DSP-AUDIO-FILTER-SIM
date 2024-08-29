@@ -9,3 +9,5 @@ module dsp_top (
     end
 endmodule
 // Updated logic section 55
+
+// Modified timing constraints 474ns
